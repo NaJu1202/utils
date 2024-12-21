@@ -1,2 +1,1 @@
-# Contador-de-Faltas
-Feito com a biblioteca tkinter
+# Códigos uteis
